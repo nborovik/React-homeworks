@@ -1,0 +1,16 @@
+.messages{
+    min-width: 1200px;
+    min-height: 100%;
+
+    background-color: #18222d;
+}
+
+.wrapper_content {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
